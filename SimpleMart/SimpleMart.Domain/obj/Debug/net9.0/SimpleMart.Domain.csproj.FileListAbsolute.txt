@@ -1,0 +1,11 @@
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\bin\Debug\net9.0\SimpleMart.Domain.deps.json
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\bin\Debug\net9.0\SimpleMart.Domain.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\bin\Debug\net9.0\SimpleMart.Domain.pdb
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.AssemblyInfoInputs.cache
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.AssemblyInfo.cs
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\refint\SimpleMart.Domain.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\SimpleMart.Domain.pdb
+C:\Users\deniz\SimpleMart\SimpleMart.Domain\obj\Debug\net9.0\ref\SimpleMart.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\deniz\SimpleMart\SimpleMart.Application\bin\Debug\net9.0\SimpleMart.Application.deps.json
+C:\Users\deniz\SimpleMart\SimpleMart.Application\bin\Debug\net9.0\SimpleMart.Application.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Application\bin\Debug\net9.0\SimpleMart.Application.pdb
+C:\Users\deniz\SimpleMart\SimpleMart.Application\bin\Debug\net9.0\SimpleMart.Domain.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Application\bin\Debug\net9.0\SimpleMart.Domain.pdb
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.csproj.AssemblyReference.cache
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.AssemblyInfoInputs.cache
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.AssemblyInfo.cs
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.csproj.CoreCompileInputs.cache
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMa.8226A3EE.Up2Date
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\refint\SimpleMart.Application.dll
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\SimpleMart.Application.pdb
+C:\Users\deniz\SimpleMart\SimpleMart.Application\obj\Debug\net9.0\ref\SimpleMart.Application.dll

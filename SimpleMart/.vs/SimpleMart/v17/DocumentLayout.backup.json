@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\SimpleMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|c:\\users\\deniz\\simplemart\\simplemart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|solutionrelative:simplemart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\simplemart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\simplemart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\simplemart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\simplemart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|c:\\users\\deniz\\simplemart\\simplemart.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|solutionrelative:simplemart.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|c:\\users\\deniz\\simplemart\\simplemart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|solutionrelative:simplemart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|c:\\users\\deniz\\simplemart\\simplemart.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|solutionrelative:simplemart.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|c:\\users\\deniz\\simplemart\\simplemart.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|solutionrelative:simplemart.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|c:\\users\\deniz\\simplemart\\simplemart.api\\simplemart.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FE51EA8-1343-40BC-BE7B-EDD1CEC86ED2}|SimpleMart.API\\SimpleMart.API.csproj|solutionrelative:simplemart.api\\simplemart.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|c:\\users\\deniz\\simplemart\\simplemart.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|solutionrelative:simplemart.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|c:\\users\\deniz\\simplemart\\simplemart.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|solutionrelative:simplemart.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|c:\\users\\deniz\\simplemart\\simplemart.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD9A5D-1E32-42FA-AA18-C304B32A0D91}|SimpleMart.Application\\SimpleMart.Application.csproj|solutionrelative:simplemart.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|c:\\users\\deniz\\simplemart\\simplemart.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5525C-580C-4BFC-93A9-B0F5F23E0199}|SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj|solutionrelative:simplemart.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|c:\\users\\deniz\\simplemart\\simplemart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDFFFA-9C53-4434-A272-4588F5AD37F8}|SimpleMart.Domain\\SimpleMart.Domain.csproj|solutionrelative:simplemart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleMart.API\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Program.cs",
+              "RelativeToolTip": "SimpleMart.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:44:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Context\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\Context\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Context\\AppDbContextFactory.cs",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\Context\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:35:42.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleMart.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\SimpleMart.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T19:32:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleMart.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\SimpleMart.Domain.csproj",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\SimpleMart.Domain.csproj",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\SimpleMart.Domain.csproj",
+              "RelativeToolTip": "SimpleMart.Domain\\SimpleMart.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T19:21:12.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:33:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleMart.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\appsettings.json",
+              "RelativeToolTip": "SimpleMart.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T20:28:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SimpleMart.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SimpleMart.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:43:57.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SimpleMart.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SimpleMart.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:43:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "SimpleMart.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:40:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimpleMart.API.csproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\SimpleMart.API.csproj",
+              "RelativeDocumentMoniker": "SimpleMart.API\\SimpleMart.API.csproj",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.API\\SimpleMart.API.csproj",
+              "RelativeToolTip": "SimpleMart.API\\SimpleMart.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T19:43:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "SimpleMart.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:39:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "SimpleMart.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:39:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SimpleMart.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:39:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "SimpleMart.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:36:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:34:32.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:34:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SimpleMart.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:34:15.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "SimpleMart.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:28:47.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SimpleMart.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:28:30.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "SimpleMart.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:28:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleMart.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\deniz\\SimpleMart\\SimpleMart.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "SimpleMart.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:21:56.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
